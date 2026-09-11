@@ -22,3 +22,6 @@ COMET ROK 2026 hardware project workspace.
 
 `Away_1` is the active candidate for the real avionics version.
 It is currently under development.
+
+The avionics design intent and development rules are documented in
+`Away_1/README.md`.

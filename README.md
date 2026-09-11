@@ -25,5 +25,15 @@ COMET avionics workspace layout.
 - `ROK2026/Away_1`: The avionics version candidate intended for actual use. It
   is currently under development.
 
+## Avionics Design Intent
+
+The active avionics design intent is documented in
+`ROK2026/Away_1/README.md`.
+
+`Away_1` follows the same core direction as the earlier ROK2 avionics/logger
+concept: ejection decision and actuation must have the highest priority, and
+logging, storage, communication, telemetry, indicators, and console output must
+not block that flight-critical path.
+
 Temporary extraction/work folders such as `tmp/` and `tmp_pdf_kmg/` are not
 tracked.
