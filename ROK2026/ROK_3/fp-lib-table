@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "parts") (type "KiCad") (uri "${KIPRJMOD}/libraries/parts.pretty") (options "") (descr "Project footprint library"))
+	(lib (name "YD-ESP32-S3") (type "KiCad") (uri "${KIPRJMOD}/libraries/YD-ESP32-S3.pretty") (options "") (descr "Project footprint library for YD-ESP32-S3"))
+	(lib (name "VCNL4040M3OE") (type "KiCad") (uri "${KIPRJMOD}/libraries/VCNL4040M3OE") (options "") (descr "Project footprint library for VCNL4040M3OE"))
+)

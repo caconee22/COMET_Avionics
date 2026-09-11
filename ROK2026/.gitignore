@@ -1,0 +1,12 @@
+# KiCad temporary files
+*.lck
+_autosave-*
+
+# KiCad local user/project state
+*.kicad_prl
+*.kicad_pro-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# KiCad backup folders
+*-backups/

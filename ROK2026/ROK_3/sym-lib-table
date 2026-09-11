@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Lib") (type "KiCad") (uri "${KIPRJMOD}/libraries/YD-ESP32-S3.kicad_sym") (options "") (descr "Project symbol library for YD-ESP32-S3"))
+	(lib (name "MPU-6500") (type "KiCad") (uri "${KIPRJMOD}/libraries/MPU-6500.kicad_sym") (options "") (descr "Project symbol library for MPU-6500"))
+	(lib (name "VCNL4040M3OE") (type "KiCad") (uri "${KIPRJMOD}/libraries/VCNL4040M3OE/VCNL4040M3OE.kicad_sym") (options "") (descr "Project symbol library for VCNL4040M3OE"))
+)

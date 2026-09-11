@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ROK_Power") (type "KiCad") (uri "${KIPRJMOD}/../libraries/ROK_Power.kicad_sym") (options "") (descr "ROK2026 power symbols"))
+)

@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-07112019-012432";"";
+"REFERENCE";"22-03-5025";"";
+"rs_stock_number";"1888798";"";
+"TraceParts.PartTitle";"Molex 5267, 2 Way, 1 Row, Vertical PCB Header";"";
+"SUPPLIER_NAME";"RS Components";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/1888798?cm_mmc=en-ds-_-mcad-_-traceparts-_-1888798'";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"Molex 5267, 2 Way, 1 Row, Vertical PCB Header";"";
+"TraceParts.InstanceId";"10-07112019-0124321QJRTYLISKLFIQAZR4E93VF7P";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.7";"";

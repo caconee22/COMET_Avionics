@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-07112019-131792";"";
+"REFERENCE";"22-03-5045";"";
+"rs_stock_number";"6878042P";"";
+"TraceParts.PartTitle";"Molex SPOX 5267, 4 Way, 1 Row, Straight PCB Header";"";
+"SUPPLIER_NAME";"RS Components";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/6878042P?cm_mmc=en-ds-_-mcad-_-traceparts-_-6878042P'";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"Molex SPOX 5267, 4 Way, 1 Row, Straight PCB Header";"";
+"TraceParts.InstanceId";"10-07112019-131792231KZ6YUML9RKT0TPBI21WG4U";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.3";"";

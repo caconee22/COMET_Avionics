@@ -1,0 +1,10 @@
+# Normalize common text files.
+* text=auto
+
+# Treat CAD, archive, spreadsheet, and generated package files as binary.
+*.step binary
+*.stp binary
+*.zip binary
+*.xlsx binary
+*.kicad_pcb -diff
+*.kicad_sch -diff
