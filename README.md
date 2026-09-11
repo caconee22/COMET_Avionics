@@ -1,16 +1,29 @@
-# COMET
+# COMET_Avionics
 
-COMET rocket electronics and PCB project archive.
+COMET rocket avionics hardware project archive.
 
 This repository replaces the previous `COMET_ROK_2` repository with the full
-`D:\COMET` workspace layout.
+COMET avionics workspace layout.
 
 ## Structure
 
-- `ROK2025/`: Existing ROK2-era project files and references.
+- `ROK2025/`: ROK2-era module board and reference files.
 - `ROK2026/`: Current ROK2026 KiCad projects, shared libraries, and revisions.
-- `ROK2026/ROK_4/`: ROK4 KiCad project.
-- `ROK2026/Away_1/`: Renewed and renamed new folder based on ROK4.
+- `ROK2026/ROK_3/`: ROK3 small-form-factor and SMD-chip test board.
+- `ROK2026/ROK_4/`: ROK4 power-design research test board.
+- `ROK2026/Away_1/`: Current active avionics candidate version under development.
+
+## Project History
+
+- `ROK2025/COMET_ROK_2`: First ROK2 circuit and module board. It was not used
+  because of software development staffing issues.
+- `ROK2026/ROK_3`: Miniaturized ROK3 version with SMD chips. It was not used
+  because of power-section issues, but it may still be recoverable and remains
+  a test version.
+- `ROK2026/ROK_4`: A further test version focused on power-section design. It
+  is a research version for a small buck-converter power design.
+- `ROK2026/Away_1`: The avionics version candidate intended for actual use. It
+  is currently under development.
 
 Temporary extraction/work folders such as `tmp/` and `tmp_pdf_kmg/` are not
 tracked.
